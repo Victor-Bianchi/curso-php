@@ -44,6 +44,26 @@
                                 Funções Anônimas
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=closure_callable">
+                                Closures e Callables
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=recursividade">
+                                Funções Recursivas
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=des_busca_recursiva">
+                                Desafio (Busca Recursiva)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=retorno_funcao">
+                                Função retornando Função
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
