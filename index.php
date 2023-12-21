@@ -16,6 +16,28 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+
+                <div class="modulo azul-escuro">
+                    <h3>Orientação a Objetos</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=OO&file=construtor_destructor">
+                                Construtor e Destrutor
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=OO&file=des_classeData">
+                                Desafio (Classe Data)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=OO&file=classe_objeto">
+                                Classe vs Objeto
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
                 <div class="modulo vermelho-escuro">
                     <h3>7. Funções</h3>
                     <ul>
