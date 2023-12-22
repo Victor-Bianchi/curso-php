@@ -21,6 +21,11 @@
                     <h3>Orientação a Objetos</h3>
                     <ul>
                         <li>
+                            <a href="exercicio.php?dir=OO&file=pilares_oo">
+                                Pilares da OO
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=OO&file=construtor_destructor">
                                 Construtor e Destrutor
                             </a>
