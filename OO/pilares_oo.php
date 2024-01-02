@@ -15,5 +15,5 @@
  * Com relação ao polimorfismo dinâmico podemos ter a mesma variável recebendo dois diferentes "tipos" em um mesmo tipo definido na definição da variável. Isso só ocorre quando a variável que irá receber os tipos diferentes seja do tipo genérico que está acima dos dados com tipos diferentes. Ou seja, na essência eles são iguais mas são diferentes entre si. Um exemplo é que todos somos humanos mas somos pessoas diferentes.
  * 
  * ABSTRAÇÃO
- * 
+ * A abstração é uma tentativa feita pelos desenvolvedores para tentar recuperar informações a respeito do projeto (com o cliente) para tentar aplicar no software. É literalmente tentar colocar a vida real dentro do software. Mas é necessário um ponto de atenção, nem sempre será possível abstrair tudo da vida real no software, as vezes haverão algumas coisas que existirão na vida real mas não no software e vão ter coisas que não existem na vida real mas existem no software.
  */

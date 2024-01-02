@@ -1,0 +1,4 @@
+Por padrão no PHP temos três modificadores de acesso: Public, Protected e Private. Cada um tem uma característica específica que muda e muito o Encapsulamento do Software.
+    1-> public: disponível para todos
+    2-> protected: disponível apenas para a classe mãe e filhas.
+    3-> private: disponível apenas na classe mãe.
