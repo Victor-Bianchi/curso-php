@@ -21,6 +21,26 @@
                     <h3>Orientação a Objetos</h3>
                     <ul>
                         <li>
+                            <a href="exercicio.php?dir=OO&file=magic">
+                                Métodos Mágicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=OO&file=traits">
+                                Traits
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=OO&file=final_key">
+                                Final Keyword
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=OO&file=7erros">
+                                Desafio dos 7 Erros
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=OO&file=Abstrata">
                                 Classe Abstrata
                             </a>
