@@ -1,0 +1,3 @@
+A principal diferença entre os dois é que no caso do require caso o arquivo que ele tentar incluir não exista ele irá gerar um erro fatal. Já no caso do Include ele irá gerar um warning caso o arquivo que ele tentar incluir não existir.
+    * Require > erro fatal
+    * Include > warning

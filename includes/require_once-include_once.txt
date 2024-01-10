@@ -1,0 +1,1 @@
+A diferença que existe entre estas funções com os clássicos require e include é que no caso dos "once" é que eles garatem que apenas uma inclusão será feita. Evitando erros na hora de incluir arquivos no caso de se incluir uma mesma função duas vezes.

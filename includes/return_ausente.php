@@ -1,0 +1,3 @@
+<?php 
+
+$variavelDeclaradaSemReturn = 'Hello World!';
