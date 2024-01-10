@@ -21,6 +21,11 @@
                     <h3>Orientação a Objetos</h3>
                     <ul>
                         <li>
+                            <a href="exercicio.php?dir=OO&file=polimorfismo">
+                                Polimorfismo
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=OO&file=magic">
                                 Métodos Mágicos
                             </a>
