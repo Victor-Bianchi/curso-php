@@ -1,6 +1,27 @@
 <div class="conteudo">
     <nav class="modulos">
 
+        <div class="modulo laranja-escuro">
+            <h3>Namespaces</h3>
+            <ul>
+                <li>
+                    <a href="exercicio.php?dir=namespaces&file=use_as">
+                        Use & As
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=namespaces&file=subnamespaces">
+                        Sub-namespaces
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=namespaces&file=basico_namespaces">
+                        Namespaces Básico
+                    </a>
+                </li>
+            </ul>
+        </div>
+
         <div class="modulo roxo-escuro">
             <h3>Includes</h3>
             <ul>

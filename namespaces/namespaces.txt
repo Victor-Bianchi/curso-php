@@ -1,0 +1,1 @@
+O principal propósito dos namespaces é separar blocos isolados dentro de um grande bloco chamado de "global". Tudo isso porque se colocarmos tudo isso dentro de um escopo global teríamos uma hora ou outra um conflito de nomes. Pois dentro do contexto global iremos dividir nomes com a API do PHP, Libs de terceiros e a nossa aplicação em si.
