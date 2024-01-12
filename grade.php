@@ -1,6 +1,27 @@
 <div class="conteudo">
     <nav class="modulos">
 
+        <div class="modulo verde">
+            <h3>Tratamento de Erros</h3>
+            <ul>
+                <li>
+                    <a href="exercicio.php?dir=erros&file=desafio_intdiv">
+                        Desafio (Intdiv)
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=erros&file=create_errors">
+                        Erros Personalizados
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=erros&file=basic">
+                        Uso Básico
+                    </a>
+                </li>
+            </ul>
+        </div>
+
         <div class="modulo laranja-escuro">
             <h3>Namespaces</h3>
             <ul>
