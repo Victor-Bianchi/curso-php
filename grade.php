@@ -1,6 +1,17 @@
 <div class="conteudo">
     <nav class="modulos">
 
+        <div class="modulo ">
+            <h3>Sessões e Cookies</h3>
+            <ul>
+               <li>
+                    <a href="exercicio.php?dir=session_cookies&file=session">
+                        Sessão
+                    </a>
+               </li>
+            </ul>
+        </div>
+
         <div class="modulo verde">
             <h3>Tratamento de Erros</h3>
             <ul>
