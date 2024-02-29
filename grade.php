@@ -1,7 +1,18 @@
 <div class="conteudo">
     <nav class="modulos">
 
-        <div class="modulo ">
+    <div class="modulo azul">
+            <h3>Funções Úteis da API</h3>
+            <ul>
+               <li>
+                    <a href="exercicio.php?dir=api_functions&file=data">
+                        Funções para Manipulação de Datas
+                    </a>
+               </li>
+            </ul>
+        </div>
+
+        <div class="modulo vermelho">
             <h3>Sessões e Cookies</h3>
             <ul>
                <li>
