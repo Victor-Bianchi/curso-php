@@ -1,0 +1,17 @@
+{
+    "name": "vcnbi/aula_composer",
+    "description": "Descriçao do Projeto",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Core\\": "Core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor Bianchi",
+            "email": "vcnbianchi@outlook.com"
+        }
+    ],
+    "require": {}
+}
