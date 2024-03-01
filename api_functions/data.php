@@ -29,5 +29,32 @@ echo date('d\/m\/y H:i:s');
 echo '<br>';
 echo '<br>';
 
-$data = mktime(23, 59, 59, 12, 31, 2012);
+$data = mktime(23, 59, 59, 12, 31, 2011);
 echo date('l, d \d\e F \d\e Y', $data);
+
+echo '<br>';
+echo '<br>';
+
+/** DATAS (PT. 2) */
+
+$data = new DateTime();
+echo date('l, d \d\e F \d\e Y', $data->getTimestamp());
+
+echo '<br>';
+echo '<br>';
+
+$dataFutura = new DateTime('+5 day +10 year');
+$dataFutura->modify('+4 day');
+echo date('l, d \d\e F \d\e Y', $dataFutura->getTimestamp());
+
+echo '<br>';
+echo '<br>';
+
+echo $data < $dataFutura ? 'Menor' : 'Maior';
+
+echo '<br>';
+echo '<br>';
+
+$tz = new DateTimeZone('America/Sao_Paulo');
+$now = new DateTime('', $tz);
+echo date('l, d \d\e F \d\e Y', $now->getTimestamp());

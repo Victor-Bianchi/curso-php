@@ -4,6 +4,16 @@
     <div class="modulo azul">
             <h3>Funções Úteis da API</h3>
             <ul>
+                <li>
+                    <a href="exercicio.php?dir=api_functions&file=up_down">
+                        Funções para Download e Upload de Arquivos em PHP
+                    </a>
+               </li>
+                <li>
+                    <a href="exercicio.php?dir=api_functions&file=arquivos">
+                        Funções para Operações com Arquivos
+                    </a>
+               </li>
                <li>
                     <a href="exercicio.php?dir=api_functions&file=data">
                         Funções para Manipulação de Datas
