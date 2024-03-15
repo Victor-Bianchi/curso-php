@@ -55,6 +55,8 @@ echo $data < $dataFutura ? 'Menor' : 'Maior';
 echo '<br>';
 echo '<br>';
 
+setlocale(LC_ALL, 'pt_BR');
+
 $tz = new DateTimeZone('America/Sao_Paulo');
 $now = new DateTime('', $tz);
 echo date('l, d \d\e F \d\e Y', $now->getTimestamp());
